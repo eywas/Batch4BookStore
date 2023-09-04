@@ -1,7 +1,8 @@
 package com.bookstore.step_defs;
 
 import com.bookstore.services.*;
-import io.cucumber.java.en.*;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 
 public class BookStore_StepDefs {
 
